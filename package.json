@@ -1,0 +1,39 @@
+{
+  "name": "react-native-keyboard-avoiding-view",
+  "version": "1.0.0",
+  "description": "Focus view will slide on the window, to prevent rolling to the outside of the screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": true,
+    "bail": true,
+    "scriptPreprocessor": "node_modules/babel-jest",
+    "setupEnvScriptFile": "jestSupport/mockStorage.js"
+  },
+  "files": [
+    "android",
+    "ios",
+    "index.js",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:EngsShi/react-native-KeyboardAvoidingView.git"
+  },
+  "keywords": [
+    "react-native",
+    "Keyboard"
+  ],
+  "author": "EngsSH <sh9701403@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EngsShi/react-native-KeyboardAvoidingView"
+  },
+  "homepage": "https://github.com/EngsShi/react-native-KeyboardAvoidingView",
+  "devDependencies": {
+    "babel-jest": "^5.3.0",
+    "jest-cli": "^0.8.0"
+  }
+}
