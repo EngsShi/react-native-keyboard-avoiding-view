@@ -4,9 +4,9 @@
 
 iOS Keyboard Avoiding View. Focus view will slide on the window, to prevent rolling to the outside of the screen 
 
-![](https://github.com/EngsShi/react-native-keyboard-avoiding-view/gif/top.png)
+![](https://github.com/EngsShi/react-native-keyboard-avoiding-view/blob/master/gif/top.gif?raw=true)
 
-![](https://github.com/EngsShi/react-native-keyboard-avoiding-view/gif/bottom.png)
+![](https://github.com/EngsShi/react-native-keyboard-avoiding-view/blob/master/gif/bottom.gif?raw=true)
 
 
 
